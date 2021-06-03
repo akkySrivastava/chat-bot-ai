@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "question" : "What is COVID-19",
+        "answer" : "COVID-19 is the disease caused by a new coronavirus called SARS-CoV-2.  WHO first learned of this new virus on 31 December 2019, following a report of a cluster of cases of ‘viral pneumonia’ in Wuhan, People’s Republic of China"
+    },
+    {
+        "id": 2,
+        "question" : "What are the symptoms of COVID-19",
+        "answer" : "The most common symptoms of COVID-19 are Fever Dry cough Fatigue Other symptoms that are less common and may affect some patients include: Loss of taste or smell, Nasal congestion,Conjunctivitis (also known as red eyes)Sore throat,Headache,Muscle or joint pain,Different types of skin rash,Nausea or vomiting,Diarrhea,Chills or dizziness."
+    },
+    {
+        "id": 3,
+        "question" : "What happens to people who get COVID-19?",
+        "answer" : "Among those who develop symptoms, most (about 80%) recover from the disease without needing hospital treatment. About 15% become seriously ill and require oxygen and 5% become critically ill and need intensive care.Complications leading to death may include respiratory failure, acute respiratory distress syndrome (ARDS), sepsis and septic shock, thromboembolism, and/or multiorgan failure, including injury of the heart, liver or kidneys."
+    },
+    {
+        "id": 4,
+        "question" : "When should I get a test for covid-19?",
+        "answer" : "Anyone with symptoms should be tested, wherever possible. People who do not have symptoms but have had close contact with someone who is, or may be, infected may also consider testing – contact your local health guidelines and follow their guidance.  While a person is waiting for test results, they should remain isolated from others. Where testing capacity is limited, tests should first be done for those at higher risk of infection, such as health workers, and those at higher risk of severe illness such as older people, especially those living in seniors’ residences or long-term care facilities."
+    },
+    {
+        "id": 5,
+        "question" : "Are there treatments for covid-19",
+        "answer" : "Scientists around the world are working to find and develop treatments for COVID-19.Optimal supportive care includes oxygen for severely ill patients and those who are at risk for severe disease and more advanced respiratory support such as ventilation for patients who are critically ill."
+    },
+    {
+        "id": 6,
+        "question" : "Is there a vaccine for covid-19?",
+        "answer" : "Yes. The first mass vaccination programme started in early December 2020 and the number of vaccination doses administered is updated on a daily basis here. At least 13 different vaccines (across 4 platforms) have been administered. Campaigns have started in 206 economies."
+    },
+    {
+        "id": 7,
+        "question" : "Are there long-term effects of covid-19?",
+        "answer" : "Some people who have had COVID-19, whether they have needed hospitalization or not, continue to experience symptoms, including fatigue, respiratory and neurological symptoms.WHO is working with our Global Technical Network for Clinical Management of COVID-19, researchers and patient groups around the world to design and carry out studies of patients beyond the initial acute course of illness to understand the proportion of patients who have long term effects, how long they persist, and why they occur.  These studies will be used to develop further guidance for patient care."
+    },
+    {
+        "id": 8,
+        "question" : "What is rapid tests?",
+        "answer" : "Rapid antigen tests (sometimes known as a rapid diagnostic test – RDT) detect viral proteins (known as antigens). Samples are collected from the nose and/or throat with a swab. These tests are cheaper than PCR and will offer results more quickly, although they are generally less accurate. These tests perform best when there is more virus circulating in the community and when sampled from an individual during the time they are most infectious. "
+    },
+    {
+        "id": 9,
+        "question" : "How long does it take to develop symptoms?",
+        "answer" : "The time from exposure to COVID-19 to the moment when symptoms begin is, on average, 5-6 days and can range from 1-14 days. This is why people who have been exposed to the virus are advised to remain at home and stay away from others, for 14 days, in order to prevent the spread of the virus, especially where testing is not easily available."
+    },
+    {
+        "id": 10,
+        "question" : "What is the difference between isolation and quarantine?",
+        "answer" : "Both isolation and quarantine are methods of preventing the spread of COVID-19.Quarantine is used for anyone who is a contact of someone infected with the SARS-CoV-2 virus, which causes COVID-19, whether the infected person has symptoms or not. Quarantine means that you remain separated from others because you have been exposed to the virus and you may be infected and can take place in a designated facility or at home. For COVID-19, this means staying in the facility or at home for 14 days. Isolation is used for people with COVID-19 symptoms or who have tested positive for the virus. Being in isolation means being separated from other people, ideally in a medically facility where you can receive clinical care.  If isolation in a medical facility is not possible and you are not in a high risk group of developing severe disease, isolation can take place at home. If you have symptoms, you should remain in isolation for at least 10 days plus an additional 3 days without symptoms. If you are infected and do not develop symptoms, you should remain in isolation for 10 days from the time you test positive. "
+    }
+    
+]
