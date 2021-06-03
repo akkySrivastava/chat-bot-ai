@@ -6,8 +6,6 @@ import Conversation from "./compoents/Conversation";
 
 function App() {
   const alanBtnInstance = useRef(null);
-  const [index, setIndex] = useState(null);
-  const [currentFaqId, setCurrentFaqId] = useState(null);
   useEffect(() => {
     if (!alanBtnInstance.current) {
       alanBtnInstance.current = alanBtn({
@@ -19,8 +17,6 @@ function App() {
               delay: 0,
               smooth: "easeInOutQuart",
             });
-            setIndex(commandData.faqId - 1);
-            setCurrentFaqId(commandData.faqId);
           } else if (commandData.command === "openMyYoutube") {
             // window.location.href = "https://youtube.com/c/CodeWithAkky";
             window.open("https://youtube.com/c/CodeWithAkky", "_blank");
